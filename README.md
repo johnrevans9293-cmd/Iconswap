@@ -1,2 +1,2 @@
-# Iconswap
-To change other apps icon to any idea icon of choice 
+# IconSwap 
+@ to change other apps icon on a devices either android or ios
